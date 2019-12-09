@@ -1,2 +1,3 @@
-Billoard2.csv file is a tidy version of originall file, which meets the TIER protocol rules.
-It is placed in Analysis Data folder.
+1. File zad1.ipynb presents data disctionary for billboard.csv requested in Exercise nr 1. It is placed in Command files folder.
+2. File zad2.ipynb presents graphicall answersers to questions from Exercise nr 2. It is placed in Command files folder.
+
