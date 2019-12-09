@@ -1,0 +1,2 @@
+Billoard2.csv file is a tidy version of originall file, which meets the TIER protocol rules.
+It is placed in Analysis Data folder.
