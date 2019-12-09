@@ -1,0 +1,4 @@
+The dataset consists of information regarding the songs that first entered the billboard top 100. 
+The variables include artist, track, date_entered, week and rank. Each week the rank is recorded, 
+if the track enters the Billboard top 100, in 75 columns which are nothing but week1 to week 75.
+ The dataset is in the form of .csv.
