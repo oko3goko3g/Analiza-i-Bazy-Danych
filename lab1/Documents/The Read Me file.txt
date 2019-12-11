@@ -1,0 +1,2 @@
+It was used la1tidydata.R file to make the originall data 'billoard.csv' tidy.
+This file is placed in command files folder.
